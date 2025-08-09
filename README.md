@@ -9,8 +9,8 @@ User bisa mencari berdasarkan nama kecamatan, kota/kabupaten, atau provinsi, dan
 - Bonus: Highlight keyword, simpan pilihan ke localStorage, skeleton loading.
 
 ## Screenshot
-![Pencarian](Screenshot 2025-08-09 073959.png)
-![Dropdown](Screenshot 2025-08-09 074059.png)
+![Pencarian](Screenshot%202025-08-09%20073959.png)
+![Dropdown](Screenshot%202025-08-09%20074059.png)
 
 ## Catatan
 > Mohon maaf, proyek ini tidak menggunakan Docker seperti instruksi awal. Dikarenaakan pakai letop kantor yang terkunci, letop saya sendiri ada di rumah. 
